@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341893581995",
+    "firebase_url": "https://beautyblend-7c65b-default-rtdb.firebaseio.com",
+    "project_id": "beautyblend-7c65b",
+    "storage_bucket": "beautyblend-7c65b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341893581995:android:99de69459aae117c623bee",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8uAEuvHfRrmnYV2sBxg8iiBjdXYlTAsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
