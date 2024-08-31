@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Define your Google Services API Key -->
-    <string name="google_api_key">AIzaSyB8uAEuvHfRrmnYV2sBxg8iiBjdXYlTAsg</string>
-    
-    <!-- Define your Google App ID -->
-    <string name="google_app_id">1:341893581995:android:99de69459aae117c623bee</string>
-</resources>
